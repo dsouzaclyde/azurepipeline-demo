@@ -1,0 +1,13 @@
+﻿{
+	"Framework": "jasmine",
+	"References": [
+		{
+			"Path": "../app.js"
+		}
+	],
+	"Tests": [
+		{
+			"Includes": [ "*.test.js" ]
+		}
+	]
+}
